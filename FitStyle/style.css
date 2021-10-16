@@ -8,10 +8,10 @@
     Version: 1.0
 
 -----------------------------------------------------------------------------------
-    
+
     CSS INDEX
     ===================
-	
+
     [ 1. theme default CSS ] (body, link color, section etc)
 	[ 2. home version one ]
 	[ 3. home version two ]
@@ -30,7 +30,7 @@
 		[ 6.10 single products page ]
 	[ 7. Contact page ]
 	[ 8. 404 page ]
-	
+
 -----------------------------------------------------------------------------------*/
 
 /*-------------------------------------
@@ -1930,7 +1930,7 @@ select:focus{outline:none!important;border-color:transparent;border:0;}
 .s-shoose h5 {
 	float: left;
 	font-size: 13px;
-	width: 65px;
+	width: 80px;
 	margin: 0;
 }
 .all-choose .color-select,.size-drop .dropdown-menu {padding: 0;}
